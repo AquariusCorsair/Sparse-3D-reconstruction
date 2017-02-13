@@ -14,6 +14,7 @@ This program calibrated the camera and restored a Sparse 3D scene.
 > cmake .. && make
 
 * run .exe
+
 > ./exe
 
 The result is in folder ~/output/
