@@ -6,9 +6,15 @@ This program calibrated the camera and restored a Sparse 3D scene.
 
 # Build And Run:
 * Create build directory:
+
 > mkdir build && cd build
+
 * make .exe with cmake :
+
 > cmake .. && make
+
+* run .exe
+> ./exe
 
 The result is in folder ~/output/
 * file (PointsCloudX*,PointsCloudY*,PointsCloudZ*) is the *th reconstructed points. Use the file "ReadTest.m" to visulise them in Matlab. Or othe visulization tools.
