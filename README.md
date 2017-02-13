@@ -17,6 +17,6 @@ The result is in folder ~/output/
 [move direction detection result img](./output/flow.png)
 
 # For more info:
-slides: https://drive.google.com/open?id=1F_U_w5bMc9gtRVyMLCXFNU20fg1pM6Z15uocu236Ud4 
-report: https://drive.google.com/open?id=0B_HlYDbGYXySU19qazZKamc1bEk
+* slides: https://drive.google.com/open?id=1F_U_w5bMc9gtRVyMLCXFNU20fg1pM6Z15uocu236Ud4 
+* report: https://drive.google.com/open?id=0B_HlYDbGYXySU19qazZKamc1bEk
 
