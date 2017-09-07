@@ -24,6 +24,6 @@ This program calibrated the camera and restored a Sparse 3D scene.
 [move direction detection result img](./output/flow.png)
 
 # For more info:
-* [paper](https://github.com/hualiu01/Sparse3DReconstruction/report/FinalReport.pdf)
-* [demo](https://github.com/hualiu01/Sparse3DReconstruction/report/demo.pdf)
+* [paper](https://github.com/hualiu01/Sparse3DReconstruction/blob/master/report/FinalReport.pdf)
+* [demo](https://github.com/hualiu01/Sparse3DReconstruction/blob/master/report/demo.pdf)
 
